@@ -13,8 +13,8 @@ Game flow
    If the players health reaches 0, they lose.
    If the enemys health reaches 0, they win
 
-   Learning Objectives
-   Apply the principles of inheritance.
-   Create and use multiple classes
-   Write methods for object interaction
-   Implement user input handling and game loops
+   Learning Objectives:
+   Apply the principles of inheritance. 
+   Create and use multiple classes. 
+   Write methods for object interaction. 
+   Implement user input handling and game loops.
